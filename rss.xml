@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Hoytus]]></title>
-        <description><![CDATA[Hoytus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Hoytus Music]]></title>
+        <description><![CDATA[Hoytus Music]]></description>
+        <link>https://thegrid.ai/hoytus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 07:26:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 07:35:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hoytus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hello, I am Hoytus Rolen, a composer musician, and fine artist.</p>]]></description>
-            <link>undefined64d6f1f1-4bd6-4ac5-a9ec-5cea1fbeb636/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/975bb5de-9f23-46f0-a935-dbd52af83d10.jpg">]]></description>
+            <link>https://thegrid.ai/hoytus/64d6f1f1-4bd6-4ac5-a9ec-5cea1fbeb636/index.html</link>
             <guid isPermaLink="false">64d6f1f1-4bd6-4ac5-a9ec-5cea1fbeb636</guid>
-            <pubDate>Tue, 09 Feb 2016 07:25:51 GMT</pubDate>
+            <pubDate>Tue, 09 Feb 2016 07:30:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
